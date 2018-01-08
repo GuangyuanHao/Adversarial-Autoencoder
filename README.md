@@ -3,5 +3,5 @@ Designed new structure and implemented the model in term of the related paper (A
 Navdeep Jaitly, Ian Goodfellow, and Brendan Frey. Adversarial
 autoencoders. ICLR, 2016.), and generated faces with high quality.
 ## Results
-![image0](https://github.com/GuangyuanHao/Adversarial-Autoencoder/raw/master/results/test_G_0.png)
-![image1](https://github.com/GuangyuanHao/Adversarial-Autoencoder/raw/master/results/test_G_1.png)
+![image0](https://github.com/GuangyuanHao/Adversarial-Autoencoder/raw/master/results/test_G_0.jpg)
+![image1](https://github.com/GuangyuanHao/Adversarial-Autoencoder/raw/master/results/test_G_1.jpg)
